@@ -1,2 +1,2 @@
 # MOOC
-Small Tools developed with MOOCs
+Small Tools adapted from MOOCs
